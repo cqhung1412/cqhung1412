@@ -8,7 +8,7 @@
       alt="LinkedIn"
     />
   </a> -->
-  <a href="https://app.daily.dev/DailyDevTips">
+  <a href="https://app.daily.dev/BigCityBear">
     <img 
           src="https://github.com/cqhung1412/cqhung1412/blob/main/devcard.svg" 
           alt="Chiêm Quốc Hùng's Dev Card"
