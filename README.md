@@ -11,10 +11,9 @@
   <a href="https://app.daily.dev/DailyDevTips">
     <img 
           src="https://github.com/cqhung1412/cqhung1412/blob/main/devcard.svg" 
-          width="400" 
           alt="Chiêm Quốc Hùng's Dev Card"
           align="right"
-          style="transform-style: preserve-3d; border-radius: 2rem; transition: all 400ms cubic-bezier(0.03, 0.98, 0.52, 0.99) 0s; will-change: transform; transform: perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1);"
+          style="width: 400px; transform-style: preserve-3d; border-radius: 2rem; transition: all 400ms cubic-bezier(0.03, 0.98, 0.52, 0.99) 0s; will-change: transform; transform: perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1);"
     />
   </a>
   
