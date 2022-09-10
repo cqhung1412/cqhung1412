@@ -15,7 +15,7 @@
   </a>
   <img
     src="https://github.com/cqhung1412/twitter-art-bot/actions/workflows/main.yaml/badge.svg"
-    alt="Tweet art on a schedule"
+    alt="Tweet art status"
   />
   <a href="https://app.daily.dev/BigCityBear">
     <img 
