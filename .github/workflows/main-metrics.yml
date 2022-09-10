@@ -12,7 +12,7 @@ on:
     - cron: "0 17 * * *"
 
 jobs:
-  spotify-top-tracks:
+  github-metrics:
     name: Spotify - Top tracks
     uses: lowlighter/metrics@latest
     with:
