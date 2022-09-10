@@ -13,7 +13,7 @@
         alt="Chiêm Quốc Hùng's Dev Card"
         align="right"
         class="devcard"
-        width=300
+        width=256
     />
   </a>
 </div>
