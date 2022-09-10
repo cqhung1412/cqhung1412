@@ -25,7 +25,6 @@
 📄 Know about [my experiences](https://www.canva.com/design/DAEsoni-0io/h6fDx7VjmQKzWjh2hYY6EQ/view?utm_content=DAEsoni-0io&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ![Metrics Top Tracks](/metrics.top-tracks.svg)
-
 ![Metrics Random Tracks](/metrics.random-tracks.svg)
-
-![Metrics General](/metrics.general.svg)
+![Metrics Starred Topics](/metrics.starred-topics.svg)
+![Metrics Fortune](/metrics.fortune.svg)

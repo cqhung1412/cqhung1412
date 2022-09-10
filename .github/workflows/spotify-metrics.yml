@@ -1,4 +1,4 @@
-name: Metrics
+name: Spotify metrics
 
 permissions:
   contents: write
@@ -30,7 +30,7 @@ jobs:
       - name: Spotify - Random tracks from playlist
         uses: lowlighter/metrics@latest
         with:
-          # filename: metrics.random-tracks.svg
+          filename: metrics.random-tracks.svg
           token: NOT_NEEDED
           base: ""
           plugin_music: yes

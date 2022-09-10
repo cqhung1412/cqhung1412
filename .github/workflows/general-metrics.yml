@@ -1,4 +1,4 @@
-name: Metrics
+name: General metrics
 
 permissions:
   contents: write
@@ -15,14 +15,20 @@ jobs:
   metrics-general:
     runs-on: ubuntu-latest
     steps:
-      - name: General Info
+      - name: Starred topics
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.general.svg
+          filename: metrics.starred-topics.svg
           token: NOT_NEEDED
           base: ""
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
+      - name: Fortune
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.fortune.svg
+          token: NOT_NEEDED
+          base: ""
           plugin_fortune: yes
       
