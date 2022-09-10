@@ -19,8 +19,6 @@
   </a>
 </div>
 
-<hr />
-
 📫 How to reach me **cqhung1412@gmail.com**
 
 📄 Know about [my experiences](https://www.canva.com/design/DAEsoni-0io/h6fDx7VjmQKzWjh2hYY6EQ/view?utm_content=DAEsoni-0io&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
