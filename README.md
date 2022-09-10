@@ -1,16 +1,3 @@
-<!-- 
-<head>
-<style>
-.devcard {
-    width: 400px; 
-    transform-style: preserve-3d; 
-    border-radius: 2rem; 
-    transition: all 400ms cubic-bezier(0.03, 0.98, 0.52, 0.99) 0s; 
-    will-change: transform; 
-    transform: perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1);
-}
-</style>
-</head> -->
 <h1 align="center">Hi 👋, I'm Quốc Hùng (Bear)</h1>
 <h3 align="center">A software engineer at <a href="https://www.facebook.com/VNGCorporation.Page/" target="_blank" rel="noopener noreferrer">VNG Corporation</a></h3>
 
@@ -27,7 +14,7 @@
         alt="Chiêm Quốc Hùng's Dev Card"
         align="right"
         class="devcard"
-        width=256
+        width=300
     />
   </a>
   
