@@ -1,4 +1,4 @@
-name: DevCard
+name: Metrics
 
 permissions:
   contents: write
@@ -12,10 +12,9 @@ on:
     - cron: "0 17 * * *"
 
 jobs:
-  devcard:
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: devcard
-        uses: dailydotdev/action-devcard@2.0.6
+      - uses: lowlighter/metrics@latest
         with:
-          devcard_id: ${{ secrets.DEVCARD_ID }}
+          token: ${{ secrets.METRICS_TOKEN }}
