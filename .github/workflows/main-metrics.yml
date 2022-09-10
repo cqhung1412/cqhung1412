@@ -12,7 +12,20 @@ on:
     - cron: "0 17 * * *"
 
 jobs:
-  github-metrics:
+  metrics-random-tracks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Spotify - Random tracks from playlist
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.random-tracks.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_music: yes
+          plugin_music_playlist: ${{ secrets.SPOTIFY_PLAYLIST_URL }}
+          plugin_music_limit: 5
+
+  metrics-top-tracks:
     runs-on: ubuntu-latest
     steps:
       - name: Spotify - Top tracks
@@ -27,12 +40,4 @@ jobs:
           plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
           plugin_music_time_range: short
           plugin_music_top_type: tracks
-      - name: Spotify - Random tracks from playlist
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.random-tracks.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_music: yes
-          plugin_music_playlist: ${{ secrets.SPOTIFY_PLAYLIST_URL }}
-          plugin_music_limit: 5
+      
