@@ -7,6 +7,12 @@
       alt="LinkedIn"
     />
   </a>
+  <a href="https://twitter.com/BarryBear42">
+    <img
+      src="https://img.shields.io/twitter/follow/BarryBear42?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter"
+    />
+  </a>
   <a href="https://app.daily.dev/BigCityBear">
     <img 
         src="https://github.com/cqhung1412/cqhung1412/blob/main/devcard.svg" 
