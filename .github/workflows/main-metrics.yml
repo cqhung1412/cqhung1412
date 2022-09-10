@@ -13,6 +13,7 @@ on:
 
 jobs:
   github-metrics:
+    runs-on: ubuntu-latest
     steps:
       - name: Spotify - Top tracks
         uses: lowlighter/metrics@latest
