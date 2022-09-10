@@ -13,6 +13,10 @@
       alt="Twitter"
     />
   </a>
+  <img
+    src="https://github.com/cqhung1412/twitter-art-bot/actions/workflows/main.yaml/badge.svg"
+    alt="Tweet art on a schedule"
+  />
   <a href="https://app.daily.dev/BigCityBear">
     <img 
         src="https://github.com/cqhung1412/cqhung1412/blob/main/devcard.svg" 
