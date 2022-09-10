@@ -28,4 +28,4 @@
 
 ![Metrics Random Tracks](/metrics.random-tracks.svg)
 
-![Metrics Starred Topics](/metrics.starred-topics.svg)
+![Metrics General](/metrics.general.svg)

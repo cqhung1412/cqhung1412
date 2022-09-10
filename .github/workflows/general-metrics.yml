@@ -1,0 +1,28 @@
+name: Metrics
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 17 * * *"
+
+jobs:
+  metrics-general:
+    runs-on: ubuntu-latest
+    steps:
+      - name: General Info
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.general.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
+          plugin_fortune: yes
+      
