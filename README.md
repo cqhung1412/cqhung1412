@@ -18,7 +18,7 @@
   </a>
 </div>
 
-## I'm Quốc Hùng (Bear)
+## I'm Quốc Hùng (Bear🧸)
 - Software engineer at [VNG Corporation](https://www.facebook.com/VNGCorporation.Page/)
 - I think my blood is *bubble tea*
 - How to reach me **cqhung1412@gmail.com**
