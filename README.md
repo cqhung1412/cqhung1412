@@ -33,7 +33,9 @@
   
 </div>
 
-![Metrics](/github-metrics.svg)
+![Metrics Top Tracks](/metrics.top-tracks.svg)
+
+![Metrics Random Tracks](/metrics.random-tracks.svg)
 
 📫 How to reach me **cqhung1412@gmail.com**
 
