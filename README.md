@@ -27,7 +27,7 @@
         alt="Chiêm Quốc Hùng's Dev Card"
         align="right"
         class="devcard"
-        width=400
+        width=256
     />
   </a>
   
