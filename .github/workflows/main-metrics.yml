@@ -31,7 +31,7 @@ jobs:
       - name: Spotify - Top tracks
         uses: lowlighter/metrics@latest
         with:
-          filename: "metrics.top-tracks.svg"
+          filename: metrics.top-tracks.svg
           token: NOT_NEEDED
           base: ""
           plugin_music: yes
@@ -40,4 +40,17 @@ jobs:
           plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
           plugin_music_time_range: short
           plugin_music_top_type: tracks
+  
+  metrics-starred-topics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Starred topics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.starred-topics.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
       
