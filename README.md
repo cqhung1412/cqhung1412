@@ -9,7 +9,7 @@
   </a>
   <a href="https://app.daily.dev/BigCityBear">
     <img 
-        src="https://github.com/cqhung1412/cqhung1412/blob/main/devcard.svg" 
+        src="https://raw.githubusercontent.com/cqhung1412/cqhung1412/devcard/devcard.svg" 
         alt="Chiêm Quốc Hùng's Dev Card"
         align="right"
         class="devcard"
@@ -24,7 +24,7 @@
 - How to reach me **cqhung1412@gmail.com**
 - Know about [my experiences](https://www.canva.com/design/DAEsoni-0io/h6fDx7VjmQKzWjh2hYY6EQ/view?utm_content=DAEsoni-0io&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-![Metrics Top Tracks](/metrics.top-tracks.svg)
-![Metrics Random Tracks](/metrics.random-tracks.svg)
-![Metrics Starred Topics](/metrics.starred-topics.svg)
-![Metrics Fortune](/metrics.fortune.svg)
+![Metrics Top Tracks](https://raw.githubusercontent.com/cqhung1412/cqhung1412/metrics/metrics.top-tracks.svg)
+![Metrics Random Tracks](https://raw.githubusercontent.com/cqhung1412/cqhung1412/metrics/metrics.random-tracks.svg)
+![Metrics Starred Topics](https://raw.githubusercontent.com/cqhung1412/cqhung1412/metrics/metrics.starred-topics.svg)
+![Metrics Fortune](https://raw.githubusercontent.com/cqhung1412/cqhung1412/metrics/metrics.fortune.svg)

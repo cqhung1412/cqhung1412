@@ -1,4 +1,4 @@
-name: General metrics
+name: Daily general metrics
 
 permissions:
   contents: write
@@ -24,6 +24,8 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
+          committer_branch: metrics
+          committer_message: "chore: update ${filename}"
       - name: Fortune
         uses: lowlighter/metrics@latest
         with:
@@ -31,4 +33,6 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_fortune: yes
+          committer_branch: metrics
+          committer_message: "chore: update ${filename}"
       
