@@ -15,7 +15,7 @@
   </a>
   <a href="https://twitter.com/BarryBear42">
     <img
-      src="https://github.com/cqhung1412/twitter-art-bot/actions/workflows/main.yaml/badge.svg"
+      src="https://github.com/cqhung1412/twitter-art-bot/actions/workflows/tweet.yaml/badge.svg"
       alt="Tweet art status"
     />
   </a>
