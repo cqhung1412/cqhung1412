@@ -13,10 +13,12 @@
       alt="Twitter"
     />
   </a>
-  <img
-    src="https://github.com/cqhung1412/twitter-art-bot/actions/workflows/main.yaml/badge.svg"
-    alt="Tweet art status"
-  />
+  <a href="https://twitter.com/BarryBear42">
+    <img
+      src="https://github.com/cqhung1412/twitter-art-bot/actions/workflows/main.yaml/badge.svg"
+      alt="Tweet art status"
+    />
+  </a>
   <a href="https://app.daily.dev/BigCityBear">
     <img 
         src="https://raw.githubusercontent.com/cqhung1412/cqhung1412/devcard/devcard.svg" 
