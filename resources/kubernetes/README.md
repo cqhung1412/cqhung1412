@@ -1,5 +1,5 @@
 # Introduction
-These are from a lead system engineer at VNG, (thanhtn208)[https://github.com/thanhtn208]
+These are from a lead system engineer at VNG, [thanhtn208](https://github.com/thanhtn208)
 
 # Slide
 https://github.com/thanhtn208/Introduction-to-Kubernetes
