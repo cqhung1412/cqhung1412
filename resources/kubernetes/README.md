@@ -40,6 +40,14 @@ https://docs.tigera.io/calico/latest/getting-started/kubernetes/flannel/migratio
 
 https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking#veth
 
+https://rendoaw.github.io/2017/10/Calico-and-Kubernetes-part-1
+
+https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/
+
+https://docs.tigera.io/calico/latest/about/kubernetes-training/about-kubernetes-services
+
+https://www.nginx.com/blog/performance-testing-nginx-ingress-controllers-dynamic-kubernetes-cloud-environment/
+
 # Giới thiệu MetalLB (Load Balancer cho bare-mental):
 
 https://kb.vidinet.net/central/latest/load-balancing-and-metallb-c-arc
@@ -73,3 +81,5 @@ Egress GW:
 https://www.slideshare.net/SeanCohen/storage-101-rook-and-ceph-open-infrastructure-denver-2019
 
 https://www.velotio.com/engineering-blog/kubernetes-csi-in-action-explained-with-features-and-use-cases
+
+
