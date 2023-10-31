@@ -16,3 +16,4 @@ There are resource links from when I was working at VNG
 - https://github.com/juicedata/juicefs
 - https://github.com/JahstreetOrg/spark-on-kubernetes-helm
 - https://ilum.cloud/docs/architecture/
+- https://drive.google.com/drive/u/0/folders/1x1r1Hs51GCX7Hdgw7_4EH_0rx96SYifT
