@@ -37,6 +37,5 @@
 - Know about [my experiences](https://www.canva.com/design/DAEsoni-0io/h6fDx7VjmQKzWjh2hYY6EQ/view?utm_content=DAEsoni-0io&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ![Metrics Top Tracks](https://raw.githubusercontent.com/cqhung1412/cqhung1412/metrics/metrics.top-tracks.svg)
-![Metrics Random Tracks](https://raw.githubusercontent.com/cqhung1412/cqhung1412/metrics/metrics.random-tracks.svg)
 ![Metrics Starred Topics](https://raw.githubusercontent.com/cqhung1412/cqhung1412/metrics/metrics.starred-topics.svg)
 ![Metrics Fortune](https://raw.githubusercontent.com/cqhung1412/cqhung1412/metrics/metrics.fortune.svg)
