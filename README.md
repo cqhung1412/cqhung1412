@@ -19,6 +19,9 @@
       alt="Tweet art status"
     />
   </a>
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=cqhung1412&label=Profile%20views&color=0e75b6&style=flat" alt="cqhung1412" />
+  </a>
   <a href="https://app.daily.dev/BigCityBear">
     <img 
         src="https://raw.githubusercontent.com/cqhung1412/cqhung1412/devcard/devcard.svg" 
