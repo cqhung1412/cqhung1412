@@ -25,22 +25,8 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">My Life (ft. Swae Lee &amp; PnB Rock)</div>
-                                    <div class="artist">ESteve Aoki, David Guetta, Swae Lee, PnB Rock</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Yêu Phải Như Vậy</div>
-                                    <div class="artist">Noo Phước Thịnh, Làn Sóng Xanh, Châu Đăng Khoa</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Tiến Hay Lùi (Nụ Hôn Bạc Tỷ Original Soundtrack)</div>
-                                    <div class="artist">Bùi Công Nam, SOOBIN</div>
+                                    <div class="name">Có Lẽ Anh Chưa Từng (ThanhPhong x LVT Remix)</div>
+                                    <div class="artist">Only C, Karik, Thanh Phong, LVT</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -53,8 +39,22 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Rhymastic chúc Tết</div>
-                                    <div class="artist">Rhymastic</div>
+                                    <div class="name">Xin Đừng Lặng Im</div>
+                                    <div class="artist">SOOBIN</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Năm Qua Đã Làm Được Gì (MiniC Remix)</div>
+                                    <div class="artist">Noo Phước Thịnh, MiniC</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">My Life (ft. Swae Lee, PnB Rock, KABU)</div>
+                                    <div class="artist">ESteve Aoki, David Guetta, Swae Lee, PnB Rock, KABU</div>
                                 </div>
                             </div>
                         </div>
