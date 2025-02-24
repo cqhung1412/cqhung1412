@@ -25,6 +25,13 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
+                                    <div class="name">Năm Qua Đã Làm Được Gì (MiniC Remix)</div>
+                                    <div class="artist">Noo Phước Thịnh, MiniC</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
                                     <div class="name">Có Lẽ Anh Chưa Từng (ThanhPhong x LVT Remix)</div>
                                     <div class="artist">Only C, Karik, Thanh Phong, LVT</div>
                                 </div>
@@ -32,8 +39,8 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Can't Get Enough</div>
-                                    <div class="artist">J.Tajor</div>
+                                    <div class="name">My Life (ft. Swae Lee, PnB Rock, KABU)</div>
+                                    <div class="artist">ESteve Aoki, David Guetta, Swae Lee, PnB Rock, KABU</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -46,15 +53,8 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Năm Qua Đã Làm Được Gì (MiniC Remix)</div>
-                                    <div class="artist">Noo Phước Thịnh, MiniC</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">My Life (ft. Swae Lee, PnB Rock, KABU)</div>
-                                    <div class="artist">ESteve Aoki, David Guetta, Swae Lee, PnB Rock, KABU</div>
+                                    <div class="name">Don't Think Twice</div>
+                                    <div class="artist">J.Tajor, teo glacier</div>
                                 </div>
                             </div>
                         </div>
