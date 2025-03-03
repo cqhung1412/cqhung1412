@@ -25,8 +25,22 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Năm Qua Đã Làm Được Gì (MiniC Remix)</div>
-                                    <div class="artist">Noo Phước Thịnh, MiniC</div>
+                                    <div class="name">Xin Đừng Lặng Im</div>
+                                    <div class="artist">SOOBIN</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Radio (feat. Trippie Redd, Jessica Baio &amp; KABU)</div>
+                                    <div class="artist">Steve Aoki, Trippie Redd, Jessica Baio, KABU</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Don't Think Twice</div>
+                                    <div class="artist">J.Tajor, teo glacier</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -39,22 +53,8 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">My Life (ft. Swae Lee, PnB Rock, KABU)</div>
-                                    <div class="artist">ESteve Aoki, David Guetta, Swae Lee, PnB Rock, KABU</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Xin Đừng Lặng Im</div>
-                                    <div class="artist">SOOBIN</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Don't Think Twice</div>
-                                    <div class="artist">J.Tajor, teo glacier</div>
+                                    <div class="name">Năm Qua Đã Làm Được Gì (MiniC Remix)</div>
+                                    <div class="artist">Noo Phước Thịnh, MiniC</div>
                                 </div>
                             </div>
                         </div>
