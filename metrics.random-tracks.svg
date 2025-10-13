@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="262" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="222" class="">
     <defs>
         <style/>
     </defs>
@@ -25,15 +25,15 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">FLY</div>
-                                    <div class="artist">WENDY</div>
+                                    <div class="name">Pick It Up (feat. Selena Gomez)</div>
+                                    <div class="artist">ECardi B, Selena Gomez</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Jinu’s Lament</div>
-                                    <div class="artist">Jinu, Ahn Hyo-seop</div>
+                                    <div class="name">Camera - Unplugged</div>
+                                    <div class="artist">Ed Sheeran</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -46,15 +46,8 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">INSIDE OUT</div>
-                                    <div class="artist">DAY6</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Pick It Up (feat. Selena Gomez)</div>
-                                    <div class="artist">ECardi B, Selena Gomez</div>
+                                    <div class="name">Get Down</div>
+                                    <div class="artist">Steve Aoki, Blasterjaxx, Lil Jon</div>
                                 </div>
                             </div>
                         </div>
