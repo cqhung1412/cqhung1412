@@ -25,15 +25,8 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Camera (CYRIL Remix)</div>
-                                    <div class="artist">Ed Sheeran, CYRIL</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">In Love</div>
-                                    <div class="artist">Low G, JustaTee</div>
+                                    <div class="name">In The Dark - From the Netflix Series "Nobody Wants This" Season 2</div>
+                                    <div class="artist">Selena Gomez</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -46,15 +39,22 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Lost In Devotion</div>
-                                    <div class="artist">Carly Rae Jepsen</div>
+                                    <div class="name">Changes</div>
+                                    <div class="artist">Charlie Puth</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Changes</div>
-                                    <div class="artist">Charlie Puth</div>
+                                    <div class="name">Higher Off The Ground</div>
+                                    <div class="artist">Steve Aoki, Nicky Romero</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Lost In Devotion</div>
+                                    <div class="artist">Carly Rae Jepsen</div>
                                 </div>
                             </div>
                         </div>
