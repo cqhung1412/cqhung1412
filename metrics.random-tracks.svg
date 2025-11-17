@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="262" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="265" class="">
     <defs>
         <style/>
     </defs>
@@ -25,22 +25,8 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">In The Dark - From the Netflix Series "Nobody Wants This" Season 2</div>
-                                    <div class="artist">Selena Gomez</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Moonshine</div>
-                                    <div class="artist">Alan Walker, Elley Duhé</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Changes</div>
-                                    <div class="artist">Charlie Puth</div>
+                                    <div class="name">Sailing</div>
+                                    <div class="artist">Alan Walker</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -53,8 +39,22 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Lost In Devotion</div>
-                                    <div class="artist">Carly Rae Jepsen</div>
+                                    <div class="name">Mục Hạ Vô Nhân (feat. Binz)</div>
+                                    <div class="artist">SOOBIN, Huỳnh Tú, Binz</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Camera (CYRIL Remix)</div>
+                                    <div class="artist">Ed Sheeran, CYRIL</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">ĐÃ XINH LẠI CÒN THÔNG MINH - Concert Version</div>
+                                    <div class="artist">EM XINH "SAY HI", Phương Ly, Bich Phuong, Miu Lê, Orange, Bảo Anh, Mỹ Mỹ, Liu Grace, Lyly, Ngô Lan Hương</div>
                                 </div>
                             </div>
                         </div>
